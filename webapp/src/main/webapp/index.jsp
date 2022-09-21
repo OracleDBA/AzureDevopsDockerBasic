@@ -1,2 +1,3 @@
-<h1> docker images deployed to Azzure app serive  </h1>
+<h1> docker images deployed to Azure app service  </h1>
+<h2> Continous Integration and Deployment </h2>
 
